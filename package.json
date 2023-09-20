@@ -9,7 +9,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.3.4"
+    "@googlemaps/js-api-loader": "^1.16.2",
+    "@loaders.gl/core": "^3.4.14",
+    "@loaders.gl/gis": "^3.4.14",
+    "@loaders.gl/json": "^3.4.14",
+    "@tmcw/togeojson": "^5.8.1",
+    "deck.gl": "^8.9.27",
+    "fs": "^0.0.1-security",
+    "loaders.gl": "^0.3.5",
+    "vue": "^3.3.4",
+    "vue3-google-map": "^0.17.1",
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
